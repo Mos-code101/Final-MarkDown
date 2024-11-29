@@ -22,11 +22,15 @@
 - **Security Information and Event Management (SIEM):** Real-time monitoring of system logs and events.
 - **Encryption:** All data, both at rest and in transit, must be encrypted.
 
+---
+## Further Reading
 
-
+- [National Institute of Standards and Technology (NIST) - Zero Trust Architecture](https://www.nist.gov/publications/zero-trust-architecture)
+- [Google's BeyondCorp Zero Trust Model](https://cloud.google.com/beyondcorp)
+- [Microsoft's Zero Trust Deployment Guide](https://www.microsoft.com/security/business/zero-trust)
 
 ---
 ## Navigation
 
-- **[Previous: Introdution to Cybersecurity](Introduction.md)**
+- **[Previous: Introduction to Cybersecurity](Introduction.md)**
 - **[Next: Penetration Testing](Penetration-Testing.md)**

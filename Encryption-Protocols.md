@@ -24,13 +24,26 @@
    - Used in HTTPS to encrypt web traffic.
 
 2. **IPsec**
-   - Secures IP communicaton by authentication and encrypting data packets.
+   - Secures IP communication by authentication and encrypting data packets.
 
 3. **PGP/GPG**
    - Used securing emails and files.
 
 ---
 ## Best Practices for Encryption
+
+- Use strong algorithms like AES-256 and RSA-4096.
+- Rotate encryption keys regularly.
+- Avoid using outdated or weak algorithms (like MD5, SHA-1).
+
+---
+## Further Reading
+- [TLS Encryption Explained](https://ssl.com/article/what-is-tls-ssl/)
+- [OpenSSL Project](https://www.openssl.org/)
+- [OWASP Cryptographic Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html)
+
+---
+## Navigation
 
 - **[Previous: Penetration Testing](Penetration-Testing.md)**
 - **[Next: Best Practices](Best-Practices.md)**

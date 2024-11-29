@@ -43,6 +43,7 @@
 - **John the Ripper**: For password cracking.
 
 ---
+
 ## Navigation
 
 - **[Previous: Zero-Trust Architecture](Zero-Trust.md)**

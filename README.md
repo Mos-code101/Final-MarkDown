@@ -1,5 +1,7 @@
 # Cybersecurity in Digital Systems
 
+**Author:** Mustafa Alogaili
+
 **Purpose:** This tutorial explores advanced cybersecurity concepts crucial for safeguarding modern digital systems. It dives into **Zero-Trust Architecture**, **Penetration Testing**, and **Encryption Protocols**, offering a mix of theoretical foundations and practical techniques.
 
 **Target Audience:** This tutorial is designed for intermediate to advanced IT professionals, systems architects, and cybersecurity learners who have foundational knowledge of digital systems and are looking to expand their skills in securing them.
